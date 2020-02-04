@@ -1,4 +1,4 @@
-name: Iflow-CFD-Primer
+name: cfd-primer
 channels:
   - conda-forge
 dependencies:
